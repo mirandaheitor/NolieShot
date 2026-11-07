@@ -1,0 +1,164 @@
+{
+  "janela_titulo": "WindowName",
+  "intervalo_ms": 30,
+  "mobile": "Turtle",
+  "forca_max": 400,
+  "ocultar_overlay_da_captura": true,
+  "servidores_permitidos": [
+    "127.x.x"
+  ],
+  "rois": {
+    "angulo": [
+      134,
+      578,
+      30,
+      15
+    ],
+    "vento_forca": [
+      386,
+      58,
+      28,
+      21
+    ],
+    "vento_seta": [
+      374,
+      44,
+      54,
+      54
+    ]
+  },
+  "limiar": {
+    "angulo": 150,
+    "vento_forca": 128
+  },
+  "seta_vento": {
+    "rgb_min": [
+      200,
+      0,
+      0
+    ],
+    "rgb_max": [
+      255,
+      70,
+      70
+    ]
+  },
+  "barra_forca": {
+    "x0": 243,
+    "y": 580,
+    "escala": 1.0,
+    "pino_y": 556,
+    "linha_y": 580
+  },
+  "cores": {
+    "trajetoria": "#00e5ff",
+    "origem": "#39ff14",
+    "alvo": "#ff3b3b",
+    "barra": "#ffe600",
+    "texto": "#ffffff",
+    "sugestao": "#ff9f1a",
+    "atual": "#ff9f1a"
+  },
+  "angulo_7seg": {
+    "celulas_x": [
+      145,
+      153
+    ],
+    "y_topo": 581,
+    "menos": [
+      139,
+      585
+    ],
+    "limiar": 170
+  },
+  "vento_7seg": {
+    "y_topo": 61,
+    "limiar": 90,
+    "menos": null,
+    "segmentos": {
+      "a": [
+        3,
+        0
+      ],
+      "b": [
+        6,
+        3
+      ],
+      "c": [
+        6,
+        10
+      ],
+      "d": [
+        3,
+        14
+      ],
+      "e": [
+        0,
+        10
+      ],
+      "f": [
+        0,
+        3
+      ],
+      "g": [
+        3,
+        7
+      ]
+    },
+    "faixa_x": [
+      383,
+      419
+    ],
+    "altura": 15,
+    "largura": 8,
+    "saturacao_max": 30
+  },
+  "agulha": {
+    "r_min": 160,
+    "g_max": 100,
+    "b_max": 70,
+    "r_menos_g": 90,
+    "area": [
+      0,
+      40,
+      800,
+      552
+    ],
+    "excluir": [
+      [
+        680,
+        40,
+        800,
+        100
+      ],
+      [
+        370,
+        40,
+        432,
+        102
+      ]
+    ],
+    "min_pixels": 12,
+    "alongamento_min": 3.0,
+    "tolerancia_graus": 15,
+    "comprimento_min": 10
+  },
+  "tipo_tiro": {
+    "leds": [
+      [
+        23,
+        569
+      ],
+      [
+        64,
+        569
+      ],
+      [
+        106,
+        569
+      ]
+    ],
+    "g_min": 150,
+    "g_menos_r": 60
+  }
+}

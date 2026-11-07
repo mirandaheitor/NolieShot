@@ -1,0 +1,240 @@
+{
+  "janela_titulo": "WindowName",
+  "intervalo_ms": 30,
+  "mobile": "Turtle",
+  "forca_max": 400,
+  "ocultar_overlay_da_captura": true,
+  "servidores_permitidos": [
+    "127.x.x"
+  ],
+  "rois": {
+    "angulo": [
+      134,
+      578,
+      30,
+      15
+    ],
+    "vento_forca": [
+      386,
+      58,
+      28,
+      21
+    ]
+  },
+  "limiar": {
+    "angulo": 150,
+    "vento_forca": 128
+  },
+  "seta_vento": {
+    "rgb_min": [
+      200,
+      0,
+      0
+    ],
+    "rgb_max": [
+      255,
+      70,
+      70
+    ]
+  },
+  "barra_forca": {
+    "x0": 388,
+    "y": 574,
+    "escala": 1.0
+  },
+  "cores": {
+    "trajetoria": "#00e5ff",
+    "origem": "#39ff14",
+    "alvo": "#ff3b3b",
+    "barra": "#ffe600",
+    "texto": "#ffffff",
+    "sugestao": "#ff9f1a",
+    "atual": "#ff9f1a"
+  },
+  "angulo_7seg": {
+    "faixa_x": [
+      308,
+      334
+    ],
+    "y_topo": 541,
+    "altura": 10,
+    "largura": 6,
+    "limiar": 170,
+    "menos": null
+  },
+  "vento_7seg": {
+    "celulas_x": [
+      232,
+      243
+    ],
+    "y_topo": 565,
+    "limiar": 150,
+    "menos": null,
+    "segmentos": {
+      "a": [
+        [
+          2,
+          0
+        ],
+        [
+          4,
+          0
+        ]
+      ],
+      "b": [
+        [
+          5,
+          2
+        ],
+        [
+          5,
+          5
+        ]
+      ],
+      "c": [
+        [
+          5,
+          9
+        ],
+        [
+          5,
+          12
+        ]
+      ],
+      "d": [
+        [
+          2,
+          14
+        ],
+        [
+          4,
+          14
+        ]
+      ],
+      "e": [
+        [
+          0,
+          9
+        ],
+        [
+          0,
+          12
+        ]
+      ],
+      "f": [
+        [
+          0,
+          2
+        ],
+        [
+          0,
+          5
+        ]
+      ],
+      "g": [
+        [
+          2,
+          7
+        ],
+        [
+          4,
+          7
+        ]
+      ]
+    },
+    "cor": [
+      200,
+      184,
+      152
+    ],
+    "um": [
+      [
+        3,
+        2
+      ],
+      [
+        3,
+        5
+      ],
+      [
+        3,
+        9
+      ],
+      [
+        3,
+        12
+      ]
+    ]
+  },
+  "agulha": {
+    "r_min": 160,
+    "g_max": 100,
+    "b_max": 70,
+    "r_menos_g": 90,
+    "area": [
+      0,
+      40,
+      800,
+      515
+    ],
+    "excluir": [
+      [
+        680,
+        40,
+        800,
+        100
+      ],
+      [
+        370,
+        40,
+        432,
+        102
+      ]
+    ],
+    "min_pixels": 12,
+    "alongamento_min": 3.0,
+    "tolerancia_graus": 15,
+    "comprimento_min": 10
+  },
+  "tipo_tiro": {
+    "leds": [
+      [
+        222,
+        527
+      ],
+      [
+        200,
+        547
+      ]
+    ],
+    "r_menos_b": 70,
+    "ss": {
+      "ponto": [
+        195,
+        585
+      ],
+      "cor_normal": [
+        205,
+        88,
+        56
+      ],
+      "dif_min": 40
+    }
+  },
+  "compasso_vento": {
+    "centro": [
+      241,
+      572.5
+    ],
+    "raio": 22
+  },
+  "camera": {
+    "area": [
+      0,
+      0,
+      800,
+      460
+    ],
+    "resp_min": 0.4
+  }
+}

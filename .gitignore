@@ -1,0 +1,11 @@
+# configuração pessoal (IP do servidor, título da janela): use config.example.json como base
+config.json
+# executável e arquivos de compilação
+dist/
+build/
+*.spec
+# prints do jogo e modelo do seu nome
+capturas/
+templates/meu_nome.png
+__pycache__/
+*.pyc
