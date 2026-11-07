@@ -1,4 +1,4 @@
-# MiraEstudo
+# NolieShot
 
 Projeto de estudo de **detecção por imagem, cálculo de ângulo/força e desenho de
 trajetória parabólica** para GunBound, para uso no seu **servidor offline/privado**.
